@@ -5,6 +5,3 @@ commit 2
 test branch change!
 
  Fixed!
-
-
-New Change
